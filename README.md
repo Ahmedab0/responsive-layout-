@@ -1,6 +1,7 @@
 # responsive_adaptive_app
 
-A new Flutter project.
+Responsive Mobile Layout, Tablet Layout, Desktop Layout.
+
 
 ## Getting Started
 
